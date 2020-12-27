@@ -1,6 +1,5 @@
 +++
 date = 2020-12-27T07:59:00Z
-draft = true
 tags = ["test"]
 title = "My Second Post"
 
