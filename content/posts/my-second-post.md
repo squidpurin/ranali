@@ -16,7 +16,7 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 
 ## Images maybe
 
-![](/uploads/ranaface.jpg)
+![rana's face](/uploads/ranaface.jpg "ranaface")
 
 ## Codeblock test
 
