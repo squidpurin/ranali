@@ -14,3 +14,4 @@ fields:
   label: Tags
 pages:
 - content/posts/my-first-post.md
+- content/posts/my-second-post.md
