@@ -1,7 +1,7 @@
-baseURL = "http://example.org/"
+baseURL = "https://rana.li"
 languageCode = "en-us"
-title = "My New Hugo Site"
 theme = "hugo-PaperMod"
+title = "rana.li"
 
 params:
     homeInfoParams:
