@@ -2,15 +2,12 @@ baseURL = "https://rana.li"
 languageCode = "en-us"
 theme = "hugo-PaperMod"
 title = "rana.li"
-
 [params.homeInfoParams]
-Title = "Hi there wave"
-Content = "Can be Info, links, about..."
-
+Content = "Ocean perch Rio Grande perch golden shiner cutthroat trout snake eel lumpsucker cow shark rohu convict cichlid, \"Gila trout.\" Parasitic catfish swordtail triplefin blenny yellowfin tuna Shingle Fish, electric ray rockweed gunnel, Rainbow trout. Rough sculpin slender barracudina boxfish zebra trout blue gourami: algae eater algae eater. Roach Black prickleback convict cichlid long-finned char: cavefish flathead. Pacific lamprey South American Lungfish yellow perch North American darter South American darter yellow-edged moray steelhead Dolly Varden trout. Mud minnow sockeye salmon, deepwater flathead Mexican golden trout southern Dolly Varden wolf-eel; zebra lionfish, turbot alewife longnose whiptail catfish kuhli loach. Houndshark three-toothed puffer weeverfish man-of-war fish trout monkfish leatherjacket, 'spinyfin giant danio sea toad pollyfish bonytail chub: piranha, collared carpetshark.'"
+Title = "Welcome! 🐏"
 [[params.socialIcons]]
 name = "<platform>"
 url = "<link>"
-
 [[params.socialIcons]]
 name = "<platform 2>"
 url = "<link2>"
